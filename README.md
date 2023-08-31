@@ -1,2 +1,2 @@
 # amazon-clone
-Duplicating amazon wweb app using HTML &amp; CSS only
+Duplicating amazon web app using HTML &amp; CSS only
